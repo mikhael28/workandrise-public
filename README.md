@@ -2,11 +2,11 @@
 
 Work & Rise is dedicated the economic empowerment of all Ugandans.
 
-The public repository for Work &amp; Rise, detailing technical specifications for professional inquiries &amp; investment research. Beta Release set for Monday, November 4th.
+The public repository for Work &amp; Rise, detailing technical specifications for professional inquiries &amp; investment research. Beta Release set for Monday, December 18th.
 
 The full repository is not Open-Source software, and therefore unavailable for public consumption. Partial or full exceptions can be made for regulatory inquiries, as well as due-diligence efforts towards investment and/or bilateral business agreements.
 
-On a general level, the application is built as a Single Page Application (SPA) using React.JS for front-end rendering & Express.JS for back-end routing. Our production database is PostgreSQL, using Sequelize ORM for performance & security purposes. 
+On a general level, the application is built as a Single Page Application (SPA) using React.JS for view-rendering rendering & Express.JS for back-end routing. Our production database is PostgreSQL, using Sequelize ORM for performance & security purposes. 
 
 We are currently integrating with PesaMoni to provide payment functionality through our platform - for information, please refer to https://www.pesamoni.com
 
