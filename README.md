@@ -2,7 +2,7 @@
 
 Work & Rise is dedicated the economic empowerment of all Ugandans.
 
-The public repository for Work &amp; Rise, detailing technical specifications for professional inquiries &amp; investment research. Beta Release set for Monday, December 18th.
+The public repository for Work &amp; Rise, detailing technical specifications for professional inquiries &amp; investment research. Beta Release set for Friday, December 29th.
 
 The full repository is not Open-Source software, and therefore unavailable for public consumption. Partial or full exceptions can be made for regulatory inquiries, as well as due-diligence efforts towards investment and/or bilateral business agreements.
 
