@@ -1,4 +1,4 @@
-# Work-Rise-Public
+# [workandrise.today](workandrise.today)
 
 Work & Rise is dedicated the economic empowerment of all Ugandans - visit workandrise.today for more information.
 
