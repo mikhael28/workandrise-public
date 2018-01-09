@@ -788,7 +788,9 @@ a .material-icons, a:hover .material-icons, a:focus .material-icons {
 .btn-group.open > .dropdown-toggle.btn.btn-danger,
 .btn-group-vertical.open > .dropdown-toggle.btn.btn-danger {
   background-color: #f44336;
+  text-align: center;
 }
+
 .btn-group .dropdown-menu,
 .btn-group-vertical .dropdown-menu {
   border-radius: 0 0 3px 3px;
@@ -3606,7 +3608,7 @@ h2.title {
   margin-bottom: 15px;
   margin-left: 10px;
   margin-right: 10px;
-  
+
 
 }
 
@@ -3764,6 +3766,9 @@ h2.title {
     margin-left: 10px;
     margin-right: 10px;
 
+  }
+  .custom1 {
+    text-align: center;
   }
 }
 
