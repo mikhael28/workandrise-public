@@ -698,6 +698,8 @@ a .material-icons, a:hover .material-icons, a:focus .material-icons {
 .navbar .navbar-nav > li > a.btn {
   font-size: 14px;
   padding: 18px 36px;
+
+
 }
 .btn.btn-sm, .btn-group-sm .btn,
 .navbar .navbar-nav > li > a.btn.btn-sm, .btn-group-sm
@@ -797,6 +799,7 @@ a .material-icons, a:hover .material-icons, a:focus .material-icons {
 }
 .btn-group.btn-group-raised,
 .btn-group-vertical.btn-group-raised {
+
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
 }
 .btn-group .btn + .btn,
@@ -3765,11 +3768,10 @@ h2.title {
   .main-raised {
     margin-left: 10px;
     margin-right: 10px;
-
-  }
-  .custom1 {
-    text-align: center;
   }
 }
 
+form-group.label-floating {
+  text-align: center;
+}
 /*# sourceMappingURL=material-kit.css.map */
