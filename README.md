@@ -1,6 +1,8 @@
 # workandrise.today
 
-Work & Rise is dedicated the economic empowerment of all Ugandans - visit workandrise.today for more information.
+Work & Rise is dedicated the economic empowerment of all Ugandans - visit https://workandrise.today for more information.
+
+Register for an account at https://platform.workandrise.today
 
 This public repository for Work &amp; Rise details basic technical specifications for professional inquiries &amp; investment research. As Work & Rise is not open-source software, source code is unavailable for public consumption. Partial or full exceptions can be made for due-diligence efforts towards investment and/or bilateral business agreements.
 
@@ -9,12 +11,14 @@ Technologies Used:
   - React
   - PostgreSQL
   - Sequelize ORM
+  - Docker
+  
 
 AWS Technologies:
   - S3
   - EC2 & ECS
-  - RDS
-  - Cognito
+  - Relational Database Service
+  - Cognito for Authentication & Authorization
  
 We are currently integrating with PesaMoni to provide payment functionality through our platform - for information, please refer to https://www.pesamoni.com
 
