@@ -13,13 +13,10 @@ Technologies Used:
   - Sequelize ORM
   - Docker
   
-
 AWS Technologies:
   - S3
   - EC2 & ECS
   - Relational Database Service
   - Cognito for Authentication & Authorization
- 
-We are currently integrating with PesaMoni to provide payment functionality through our platform - for information, please refer to https://www.pesamoni.com
 
 If you have any technical questions or would like to partner with us as an Employer or Marketing Sponsor, please reach out to director@mikhaelbd.com & celestine@workandrise.com
