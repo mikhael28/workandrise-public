@@ -1,22 +1,11 @@
-# workandrise.today
+# Work & Rise - East African Freelance Marketplace
 
-Work & Rise is dedicated the economic empowerment of all Ugandans - visit https://workandrise.today for more information.
+Work & Rise is a freelancer marketplace dedicated to the economic empowerment of all Ugandans - visit https://workandrise.com for more information.
 
-Register for an account at https://platform.workandrise.today
+This public repository for Work & Rise details the work I did, especially on the mobile application. This was the first major dev project of my career, and so understandably, some rookie mistakes were made.
 
-This public repository for Work &amp; Rise details basic technical specifications for professional inquiries &amp; investment research. As Work & Rise is not open-source software, source code is unavailable for public consumption. Partial or full exceptions can be made for due-diligence efforts towards investment and/or bilateral business agreements.
+The core technologies used were React on the front-end, mostly with class components. It was deployed on a Cloudfront distribution, in the EU zone for better connectivity to East Africa. Hooks were not yet a thing, can you believe that?! I used a Node.js server with Express middleware to run a Sequelize instance (an SQL, Postgres specifically, ORM where you define schemas and queries in JS) that was deployed on AWS using the Elastic Container Service. This was augmented by some serverless functions tying into a payment API called Beyonic, which would allow our users to transact directly in Ugandan shillings. This was the MVP I was hired to build.
 
-Technologies Used:
-  - Express JS
-  - React
-  - PostgreSQL
-  - Sequelize ORM
-  - Docker
-  
-AWS Technologies:
-  - S3
-  - EC2 & ECS
-  - Relational Database Service
-  - Cognito for Authentication & Authorization
+At this point, my involvement in the business waned - I moved on to work on some other projects, though I always kept in touch to provide some immediate bug fixes or advice. The other developer, Esau, is a great guy & incredibly hard working. Over the next year or so, they updated the front-end a lot to account for new wallet functionality, and totally migrated the backend ORM to a Python backend, in addition to a hand-rolled admin portal. The admin tools offered by Beyonic were unreliable, for our purposes.
 
-If you have any technical questions or would like to partner with us as an Employer or Marketing Sponsor, please reach out to director@mikhaelbd.com & celestine@workandrise.com
+At the beginning of 2021, I started talking with my old colleagues and contributed a quick mobile application with React Native to help them increase their velocity. It is now live on the Play Store. They had been using a responsive web application, which is great, but a mobile app provides a more stable, simpler experience for the unique challenges of the East African market.
